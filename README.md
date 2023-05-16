@@ -13,7 +13,7 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"
-      alt="aws"
+      alt="terraform"
       width="40"
       height="40"
     />
@@ -21,7 +21,15 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg"
-      alt="aws"
+      alt="ansible"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg"
+      alt="argocd"
       width="40"
       height="40"
     />
