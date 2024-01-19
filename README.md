@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer from Melbourne, Australia.</h3>
 
 - 🔭 I’m currently working on [local-k8s-multi-cluster](https://github.com/Y0sh1dk/local-k8s-multi-cluster)
-- 🌱 I’m currently learning **Kubernetes, Linkerd, Skaffold** 
+- 🌱 I’m currently learning **Kubernetes, KubeBuilder, Istio and GCP** 
 - 📫 How to reach me **me@yosiahdekoeyer.dev**
 
 <h3 align="left">Languages and Tools:</h3>
