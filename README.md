@@ -96,11 +96,3 @@
     />
   </a>
 </p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=y0sh1dk&show_icons=true&locale=en"
-    alt="y0sh1dk"
-  />
-</p>
